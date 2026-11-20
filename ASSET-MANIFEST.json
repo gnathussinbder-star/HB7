@@ -1,0 +1,14 @@
+{
+  "assets/brand-logo.png": {
+    "sha256": "f166ae04fbc5876220f70586ff36f5a63c986521164c978021938433ab92c0ef",
+    "bytes": 69534
+  },
+  "assets/founder-portrait.png": {
+    "sha256": "468d95c340ec2b9a779e226518254551e4d1b3837dd6b25a7874825d5c3f56db",
+    "bytes": 1579024
+  },
+  "assets/favicon-128.png": {
+    "sha256": "082bd52c9a3e0f168c44e9a78cebb89ebe0fbf990785020b5a656641d78e6d3b",
+    "bytes": 10390
+  }
+}

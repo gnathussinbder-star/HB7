@@ -1,0 +1,632 @@
+[
+  {
+    "id": "q01",
+    "level": "A1",
+    "skill": "Grammar",
+    "question": "She ___ a student.",
+    "options": [
+      {
+        "label": "A",
+        "text": "am"
+      },
+      {
+        "label": "B",
+        "text": "is"
+      },
+      {
+        "label": "C",
+        "text": "are"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q02",
+    "level": "A1",
+    "skill": "Vocabulary",
+    "question": "Which word means بيت؟",
+    "options": [
+      {
+        "label": "A",
+        "text": "house"
+      },
+      {
+        "label": "B",
+        "text": "horse"
+      },
+      {
+        "label": "C",
+        "text": "hour"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q03",
+    "level": "A1",
+    "skill": "Grammar",
+    "question": "I ___ coffee every morning.",
+    "options": [
+      {
+        "label": "A",
+        "text": "drinks"
+      },
+      {
+        "label": "B",
+        "text": "drink"
+      },
+      {
+        "label": "C",
+        "text": "drinking"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q04",
+    "level": "A1",
+    "skill": "Reading",
+    "question": "“Tom is ten. He lives in Mosul.” How old is Tom?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Eight"
+      },
+      {
+        "label": "B",
+        "text": "Ten"
+      },
+      {
+        "label": "C",
+        "text": "Twelve"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q05",
+    "level": "A1",
+    "skill": "Listening",
+    "question": "You hear: “The train leaves at six.” When does it leave?",
+    "options": [
+      {
+        "label": "A",
+        "text": "At five"
+      },
+      {
+        "label": "B",
+        "text": "At six"
+      },
+      {
+        "label": "C",
+        "text": "At seven"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q06",
+    "level": "A1",
+    "skill": "Communication",
+    "question": "Choose a polite greeting in the morning.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Good morning."
+      },
+      {
+        "label": "B",
+        "text": "Good night."
+      },
+      {
+        "label": "C",
+        "text": "Good bye yesterday."
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q07",
+    "level": "A2",
+    "skill": "Grammar",
+    "question": "We ___ to the museum last Friday.",
+    "options": [
+      {
+        "label": "A",
+        "text": "go"
+      },
+      {
+        "label": "B",
+        "text": "went"
+      },
+      {
+        "label": "C",
+        "text": "gone"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q08",
+    "level": "A2",
+    "skill": "Vocabulary",
+    "question": "A place where you borrow books is a ___.",
+    "options": [
+      {
+        "label": "A",
+        "text": "library"
+      },
+      {
+        "label": "B",
+        "text": "bakery"
+      },
+      {
+        "label": "C",
+        "text": "factory"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q09",
+    "level": "A2",
+    "skill": "Grammar",
+    "question": "There isn’t ___ milk in the fridge.",
+    "options": [
+      {
+        "label": "A",
+        "text": "many"
+      },
+      {
+        "label": "B",
+        "text": "much"
+      },
+      {
+        "label": "C",
+        "text": "few"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q10",
+    "level": "A2",
+    "skill": "Reading",
+    "question": "“Lina missed the bus, so she walked to work.” Why did she walk?",
+    "options": [
+      {
+        "label": "A",
+        "text": "She missed the bus"
+      },
+      {
+        "label": "B",
+        "text": "She wanted to shop"
+      },
+      {
+        "label": "C",
+        "text": "Her car broke down"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q11",
+    "level": "A2",
+    "skill": "Listening",
+    "question": "You hear: “Please turn left at the traffic lights.” What should you do?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Turn right"
+      },
+      {
+        "label": "B",
+        "text": "Turn left"
+      },
+      {
+        "label": "C",
+        "text": "Stop forever"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q12",
+    "level": "A2",
+    "skill": "Communication",
+    "question": "How do you ask for the price?",
+    "options": [
+      {
+        "label": "A",
+        "text": "How much is it?"
+      },
+      {
+        "label": "B",
+        "text": "How old is it?"
+      },
+      {
+        "label": "C",
+        "text": "How long is it?"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q13",
+    "level": "B1",
+    "skill": "Grammar",
+    "question": "I ___ this book twice.",
+    "options": [
+      {
+        "label": "A",
+        "text": "read"
+      },
+      {
+        "label": "B",
+        "text": "have read"
+      },
+      {
+        "label": "C",
+        "text": "am read"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q14",
+    "level": "B1",
+    "skill": "Vocabulary",
+    "question": "“Reliable” is closest in meaning to ___.",
+    "options": [
+      {
+        "label": "A",
+        "text": "dependable"
+      },
+      {
+        "label": "B",
+        "text": "careless"
+      },
+      {
+        "label": "C",
+        "text": "temporary"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q15",
+    "level": "B1",
+    "skill": "Grammar",
+    "question": "If it rains, we ___ indoors.",
+    "options": [
+      {
+        "label": "A",
+        "text": "stay"
+      },
+      {
+        "label": "B",
+        "text": "will stay"
+      },
+      {
+        "label": "C",
+        "text": "would stayed"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q16",
+    "level": "B1",
+    "skill": "Reading",
+    "question": "“The council added more cycle lanes to encourage people to leave their cars at home.” What is the aim?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Increase car use"
+      },
+      {
+        "label": "B",
+        "text": "Promote cycling"
+      },
+      {
+        "label": "C",
+        "text": "Close the roads"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q17",
+    "level": "B1",
+    "skill": "Listening",
+    "question": "You hear: “I was going to call, but my phone battery died.” Why did the person not call?",
+    "options": [
+      {
+        "label": "A",
+        "text": "No signal"
+      },
+      {
+        "label": "B",
+        "text": "The battery died"
+      },
+      {
+        "label": "C",
+        "text": "They forgot the number"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q18",
+    "level": "B1",
+    "skill": "Communication",
+    "question": "Which phrase politely disagrees?",
+    "options": [
+      {
+        "label": "A",
+        "text": "That is nonsense."
+      },
+      {
+        "label": "B",
+        "text": "I see your point, but…"
+      },
+      {
+        "label": "C",
+        "text": "You are always wrong."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q19",
+    "level": "B2",
+    "skill": "Grammar",
+    "question": "The new bridge ___ next year.",
+    "options": [
+      {
+        "label": "A",
+        "text": "will complete"
+      },
+      {
+        "label": "B",
+        "text": "will be completed"
+      },
+      {
+        "label": "C",
+        "text": "completes by"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q20",
+    "level": "B2",
+    "skill": "Vocabulary",
+    "question": "“To weigh up the options” means to ___.",
+    "options": [
+      {
+        "label": "A",
+        "text": "ignore choices"
+      },
+      {
+        "label": "B",
+        "text": "consider choices carefully"
+      },
+      {
+        "label": "C",
+        "text": "choose randomly"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q21",
+    "level": "B2",
+    "skill": "Grammar",
+    "question": "If I had known, I ___ earlier.",
+    "options": [
+      {
+        "label": "A",
+        "text": "would call"
+      },
+      {
+        "label": "B",
+        "text": "would have called"
+      },
+      {
+        "label": "C",
+        "text": "will call"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q22",
+    "level": "B2",
+    "skill": "Reading",
+    "question": "“Although the trial showed promise, researchers warned that the sample was too small for broad conclusions.” What is the main caution?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The result is definitive"
+      },
+      {
+        "label": "B",
+        "text": "The sample limits generalisation"
+      },
+      {
+        "label": "C",
+        "text": "The trial never happened"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q23",
+    "level": "B2",
+    "skill": "Listening",
+    "question": "You hear: “The proposal is ambitious; whether it is practical remains to be seen.” What is implied?",
+    "options": [
+      {
+        "label": "A",
+        "text": "It is certainly practical"
+      },
+      {
+        "label": "B",
+        "text": "Its feasibility is uncertain"
+      },
+      {
+        "label": "C",
+        "text": "It has been rejected"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q24",
+    "level": "B2",
+    "skill": "Writing",
+    "question": "Which connector signals contrast?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Furthermore"
+      },
+      {
+        "label": "B",
+        "text": "Nevertheless"
+      },
+      {
+        "label": "C",
+        "text": "Consequently"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q25",
+    "level": "C1",
+    "skill": "Grammar",
+    "question": "Had the data been available, the team ___ the analysis sooner.",
+    "options": [
+      {
+        "label": "A",
+        "text": "would complete"
+      },
+      {
+        "label": "B",
+        "text": "would have completed"
+      },
+      {
+        "label": "C",
+        "text": "will have completed"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q26",
+    "level": "C1",
+    "skill": "Vocabulary",
+    "question": "“Substantiate a claim” means to ___.",
+    "options": [
+      {
+        "label": "A",
+        "text": "support it with evidence"
+      },
+      {
+        "label": "B",
+        "text": "make it shorter"
+      },
+      {
+        "label": "C",
+        "text": "withdraw it"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q27",
+    "level": "C1",
+    "skill": "Grammar",
+    "question": "The findings ___ a cautious interpretation.",
+    "options": [
+      {
+        "label": "A",
+        "text": "warrant"
+      },
+      {
+        "label": "B",
+        "text": "warrants"
+      },
+      {
+        "label": "C",
+        "text": "warranting"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q28",
+    "level": "C1",
+    "skill": "Reading",
+    "question": "“The correlation persisted after adjustment, though residual confounding cannot be excluded.” Which conclusion is best?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Causation is proven"
+      },
+      {
+        "label": "B",
+        "text": "Some uncertainty remains"
+      },
+      {
+        "label": "C",
+        "text": "The data are invalid"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "q29",
+    "level": "C1",
+    "skill": "Listening",
+    "question": "You hear: “I wouldn’t go so far as to call it a failure.” What does the speaker mean?",
+    "options": [
+      {
+        "label": "A",
+        "text": "They reject an extreme negative judgement"
+      },
+      {
+        "label": "B",
+        "text": "They fully agree it failed"
+      },
+      {
+        "label": "C",
+        "text": "They refuse to discuss it"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "q30",
+    "level": "C1",
+    "skill": "Academic English",
+    "question": "Which is the most appropriately hedged claim?",
+    "options": [
+      {
+        "label": "A",
+        "text": "This always proves the theory."
+      },
+      {
+        "label": "B",
+        "text": "The results may indicate a relationship."
+      },
+      {
+        "label": "C",
+        "text": "No further evidence is needed."
+      }
+    ],
+    "answer": "B"
+  }
+]

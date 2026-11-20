@@ -1,0 +1,30 @@
+{
+  "brandName": "Hussien Badr English",
+  "founderName": "Hussien Badr",
+  "taglineAr": "تعلّم الإنجليزية بثقة، خطوةً بعد خطوة",
+  "taglineEn": "Build your English with clarity and confidence.",
+  "email": "gnathussinbder@gmail.com",
+  "social": {
+    "youtube": "https://youtube.com/@husseinbadr1",
+    "telegram": "https://t.me/HBM20091",
+    "tiktok": "https://www.tiktok.com/@hbm071",
+    "facebook": "https://www.facebook.com/share/1BSBJ5JrEK/",
+    "linkedin": "https://www.linkedin.com/in/%D8%AD%D8%B3%D9%8A%D9%86-%D8%A8%D8%AF%D8%B1-0221a1418"
+  },
+  "levels": [
+    "A1",
+    "A2",
+    "B1",
+    "B2",
+    "C1"
+  ],
+  "release": "1.0.0",
+  "hosting": "GitHub Pages",
+  "currentMode": "Static",
+  "futureFeatures": [
+    "Student accounts",
+    "Cloud progress sync",
+    "Protected admin dashboard",
+    "AI-assisted writing and speaking feedback"
+  ]
+}

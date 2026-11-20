@@ -1,0 +1,427 @@
+[
+  {
+    "id": "a1-01",
+    "level": "A1",
+    "title": "Greetings and introductions",
+    "category": "Communication",
+    "objective": "تقديم نفسك وبدء محادثة قصيرة.",
+    "explanation": "نستخدم التحيات بحسب الوقت والموقف. نقول Hello أو Hi بصورة عامة، وGood morning في الصباح. للتعريف بالنفس نستخدم I am أو I’m ثم الاسم.",
+    "examples": "Hello, I’m Sara. / Good morning. My name is Ali. / Nice to meet you.",
+    "practice": "اختر الجملة الصحيحة للتعريف بنفسك:",
+    "answer": "B",
+    "answerOptions": [
+      "I is Omar.",
+      "I am Omar.",
+      "I are Omar."
+    ],
+    "estimatedMinutes": 20
+  },
+  {
+    "id": "a1-02",
+    "level": "A1",
+    "title": "Subject pronouns and be",
+    "category": "Grammar",
+    "objective": "استخدام am / is / are مع الضمائر.",
+    "explanation": "ضمائر الفاعل هي I, you, he, she, it, we, they. يأتي فعل be بصيغة am مع I، وis مع he/she/it، وare مع you/we/they.",
+    "examples": "I am ready. / She is a teacher. / They are friends.",
+    "practice": "أكمل: They ___ at home.",
+    "answer": "C",
+    "answerOptions": [
+      "is",
+      "am",
+      "are"
+    ],
+    "estimatedMinutes": 20
+  },
+  {
+    "id": "a1-03",
+    "level": "A1",
+    "title": "Everyday objects and this/that",
+    "category": "Vocabulary",
+    "objective": "تسمية أشياء قريبة وبعيدة.",
+    "explanation": "نستخدم this للمفرد القريب وthat للمفرد البعيد. أما these وthose فللجمع.",
+    "examples": "This is my pen. / That is your bag. / These are books.",
+    "practice": "تشير إلى كتاب قريب واحد. ماذا تقول؟",
+    "answer": "A",
+    "answerOptions": [
+      "This is a book.",
+      "Those is a book.",
+      "These are a book."
+    ],
+    "estimatedMinutes": 20
+  },
+  {
+    "id": "a1-04",
+    "level": "A1",
+    "title": "Present simple: daily routines",
+    "category": "Grammar",
+    "objective": "وصف الروتين والعادات.",
+    "explanation": "نستخدم المضارع البسيط للعادات والحقائق. مع he/she/it نضيف غالباً s للفعل: works, studies. في النفي نستخدم do not أو does not ثم الفعل الأساسي.",
+    "examples": "I study every day. / He works in a bank. / She doesn’t drive.",
+    "practice": "اختر الصيغة الصحيحة: He ___ English every evening.",
+    "answer": "B",
+    "answerOptions": [
+      "study",
+      "studies",
+      "studying"
+    ],
+    "estimatedMinutes": 20
+  },
+  {
+    "id": "a1-05",
+    "level": "A1",
+    "title": "Time, days and simple questions",
+    "category": "Communication",
+    "objective": "السؤال عن الوقت والأيام والمعلومات الأساسية.",
+    "explanation": "نستخدم What time is it? للسؤال عن الساعة، وWhat day is it? عن اليوم. أسئلة المعلومات تبدأ غالباً بـ what, where, when, who, how.",
+    "examples": "What time is it? / Where are you from? / I’m from Iraq.",
+    "practice": "أي سؤال تسأل به عن مكان شخص؟",
+    "answer": "B",
+    "answerOptions": [
+      "How old are you?",
+      "Where are you?",
+      "When are you?"
+    ],
+    "estimatedMinutes": 20
+  },
+  {
+    "id": "a2-01",
+    "level": "A2",
+    "title": "Past simple: completed actions",
+    "category": "Grammar",
+    "objective": "التحدث عن أحداث انتهت في الماضي.",
+    "explanation": "نستخدم الماضي البسيط لحدث انتهى في وقت ماضٍ. الأفعال المنتظمة تأخذ -ed، وغير المنتظمة لها صيغة خاصة. في السؤال والنفي نستخدم did ثم الفعل الأساسي.",
+    "examples": "We visited Basra yesterday. / She went home. / Did you see him?",
+    "practice": "اختر الصيغة الصحيحة: I ___ my friend last night.",
+    "answer": "B",
+    "answerOptions": [
+      "meet",
+      "met",
+      "meeting"
+    ],
+    "estimatedMinutes": 20
+  },
+  {
+    "id": "a2-02",
+    "level": "A2",
+    "title": "Countable and uncountable nouns",
+    "category": "Grammar",
+    "objective": "التمييز بين الأسماء المعدودة وغير المعدودة.",
+    "explanation": "يمكن جمع الأسماء المعدودة واستخدام a/an معها. الأسماء غير المعدودة مثل water وadvice لا تُجمع عادة. نستخدم many للمعدود وmuch لغير المعدود.",
+    "examples": "many books / much water / a piece of advice",
+    "practice": "اختر التعبير الصحيح: How ___ rice do we need?",
+    "answer": "B",
+    "answerOptions": [
+      "many",
+      "much",
+      "few"
+    ],
+    "estimatedMinutes": 20
+  },
+  {
+    "id": "a2-03",
+    "level": "A2",
+    "title": "Comparatives and superlatives",
+    "category": "Grammar",
+    "objective": "مقارنة الأشخاص والأشياء.",
+    "explanation": "نستخدم الصفة المقارنة للمقارنة بين اثنين، غالباً بإضافة -er أو more. ونستخدم the superlative للمجموعة، غالباً the -est أو the most.",
+    "examples": "Taller than / more useful than / the fastest",
+    "practice": "This road is ___ than that one.",
+    "answer": "B",
+    "answerOptions": [
+      "long",
+      "longer",
+      "the longest"
+    ],
+    "estimatedMinutes": 20
+  },
+  {
+    "id": "a2-04",
+    "level": "A2",
+    "title": "Future plans: going to",
+    "category": "Grammar",
+    "objective": "وصف الخطط والنوايا المستقبلية.",
+    "explanation": "نستخدم be going to + base verb للتعبير عن خطة أو نية، ويتغير فعل be حسب الفاعل.",
+    "examples": "I am going to study tonight. / They are going to travel.",
+    "practice": "She ___ going to visit her aunt.",
+    "answer": "B",
+    "answerOptions": [
+      "am",
+      "is",
+      "are"
+    ],
+    "estimatedMinutes": 20
+  },
+  {
+    "id": "a2-05",
+    "level": "A2",
+    "title": "Giving directions and places",
+    "category": "Communication",
+    "objective": "فهم الاتجاهات وشرحها.",
+    "explanation": "تُستخدم عبارات مثل turn left, turn right, go straight ahead وnext to لوصف الطريق والمواقع.",
+    "examples": "Go straight, then turn left. The bank is next to the pharmacy.",
+    "practice": "ماذا تعني “opposite the school”؟",
+    "answer": "B",
+    "answerOptions": [
+      "بجانب المدرسة",
+      "مقابل المدرسة",
+      "داخل المدرسة"
+    ],
+    "estimatedMinutes": 20
+  },
+  {
+    "id": "b1-01",
+    "level": "B1",
+    "title": "Present perfect: experience and results",
+    "category": "Grammar",
+    "objective": "استخدام present perfect للخبرة والنتائج المرتبطة بالحاضر.",
+    "explanation": "يتكون present perfect من have/has + past participle. نستخدمه للخبرات دون وقت محدد أو نتيجة حاضرة. لا نستخدمه عادة مع وقت ماضٍ منتهٍ مثل yesterday.",
+    "examples": "I have visited Amman. / She has lost her keys.",
+    "practice": "اختر الجملة الصحيحة:",
+    "answer": "B",
+    "answerOptions": [
+      "I have seen that film yesterday.",
+      "I saw that film yesterday.",
+      "I have saw that film."
+    ],
+    "estimatedMinutes": 20
+  },
+  {
+    "id": "b1-02",
+    "level": "B1",
+    "title": "First conditional",
+    "category": "Grammar",
+    "objective": "التحدث عن احتمالات مستقبلية حقيقية.",
+    "explanation": "يتكون الشرط الأول غالباً من If + present simple, will + base verb. يمكن تقديم جملة if أو تأخيرها.",
+    "examples": "If it rains, we will stay home. / I’ll call you if I arrive early.",
+    "practice": "If he studies, he ___ the test.",
+    "answer": "B",
+    "answerOptions": [
+      "passes",
+      "will pass",
+      "passed"
+    ],
+    "estimatedMinutes": 20
+  },
+  {
+    "id": "b1-03",
+    "level": "B1",
+    "title": "Reading for main ideas and evidence",
+    "category": "Reading",
+    "objective": "استخراج الفكرة الرئيسية والتفاصيل الداعمة.",
+    "explanation": "ابدأ بقراءة العنوان والجملة الافتتاحية لتوقع الموضوع. بعد ذلك حدد الكلمات المفتاحية وابحث عن الجملة التي تدعم الإجابة، ولا تعتمد على التخمين.",
+    "examples": "A paragraph about public transport may have the main idea “Buses can reduce city traffic.”",
+    "practice": "اقرأ: “Mina cycles to work three days a week because it saves money and helps her stay active.” ما السببان؟",
+    "answer": "A",
+    "answerOptions": [
+      "توفير المال والبقاء نشيطة",
+      "تجنب المطر",
+      "الوصول مرة واحدة في الشهر"
+    ],
+    "estimatedMinutes": 20
+  },
+  {
+    "id": "b1-04",
+    "level": "B1",
+    "title": "Modals for advice and obligation",
+    "category": "Grammar",
+    "objective": "التعبير عن النصيحة والضرورة والاحتمال.",
+    "explanation": "نستخدم should للنصيحة، must للضرورة القوية، have to للالتزام، وmight للاحتمال. يأتي بعدها الفعل الأساسي دون to باستثناء have to.",
+    "examples": "You should rest. / We must wear helmets. / It might rain.",
+    "practice": "You look tired. You ___ take a break.",
+    "answer": "A",
+    "answerOptions": [
+      "should",
+      "mustn’t",
+      "might not"
+    ],
+    "estimatedMinutes": 20
+  },
+  {
+    "id": "b1-05",
+    "level": "B1",
+    "title": "Writing a clear paragraph",
+    "category": "Writing",
+    "objective": "كتابة فقرة مترابطة بفكرة رئيسية وأدلة.",
+    "explanation": "تتكون الفقرة الجيدة من topic sentence توضح الفكرة، وجمل داعمة مع أمثلة، ثم جملة ختامية. استخدم أدوات ربط مثل first, also, however, because.",
+    "examples": "Topic: “Learning a language takes practice.” Support: daily reading, listening and speaking.",
+    "practice": "أي جملة تصلح أكثر كفكرة رئيسية لفقرة عن القراءة؟",
+    "answer": "B",
+    "answerOptions": [
+      "I bought a blue bag yesterday.",
+      "Reading regularly can improve vocabulary and comprehension.",
+      "The weather is cold."
+    ],
+    "estimatedMinutes": 20
+  },
+  {
+    "id": "b2-01",
+    "level": "B2",
+    "title": "Passive voice in formal contexts",
+    "category": "Grammar",
+    "objective": "استخدام المبني للمجهول عندما يكون الفعل أهم من الفاعل.",
+    "explanation": "يتكون المبني للمجهول من be + past participle، ويتغير be حسب الزمن. يُستخدم عندما يكون الفاعل غير معروف أو غير مهم أو عندما نركز على النتيجة.",
+    "examples": "The results were published yesterday. / English is spoken in many countries.",
+    "practice": "حوّل إلى المبني للمجهول: “They built the bridge in 1990.”",
+    "answer": "B",
+    "answerOptions": [
+      "The bridge built in 1990.",
+      "The bridge was built in 1990.",
+      "The bridge is building in 1990."
+    ],
+    "estimatedMinutes": 20
+  },
+  {
+    "id": "b2-02",
+    "level": "B2",
+    "title": "Second and third conditionals",
+    "category": "Grammar",
+    "objective": "التعبير عن مواقف افتراضية وحالات ماضية لم تحدث.",
+    "explanation": "الشرط الثاني: If + past simple, would + verb لخيال أو احتمال ضعيف الآن/المستقبل. الشرط الثالث: If + past perfect, would have + past participle لنتيجة ماضية متخيلة.",
+    "examples": "If I had more time, I would learn Spanish. / If we had left earlier, we would have caught the train.",
+    "practice": "If she had studied harder, she ___ the exam.",
+    "answer": "B",
+    "answerOptions": [
+      "would pass",
+      "would have passed",
+      "will pass"
+    ],
+    "estimatedMinutes": 20
+  },
+  {
+    "id": "b2-03",
+    "level": "B2",
+    "title": "Discourse markers and argument structure",
+    "category": "Writing",
+    "objective": "بناء حجة متوازنة وربط الأفكار.",
+    "explanation": "توضح أدوات الربط علاقة الأفكار: furthermore للإضافة، nevertheless للتعارض، consequently للنتيجة، whereas للمقارنة. اختر الأداة بناءً على المعنى لا على التنويع الشكلي.",
+    "examples": "Online learning is flexible; nevertheless, some learners miss face-to-face interaction.",
+    "practice": "اختر أداة الربط المناسبة: “The plan was expensive; ___, it delivered strong results.”",
+    "answer": "A",
+    "answerOptions": [
+      "however",
+      "therefore",
+      "for example"
+    ],
+    "estimatedMinutes": 20
+  },
+  {
+    "id": "b2-04",
+    "level": "B2",
+    "title": "Listening for attitude and implication",
+    "category": "Listening",
+    "objective": "استنتاج موقف المتحدث وما يوحي به الكلام.",
+    "explanation": "لا يقتصر الاستماع المتقدم على الكلمات المباشرة. انتبه إلى النبرة، والتأكيد، والتردد، والكلمات التي تكشف موقف المتحدث مثل actually, surprisingly, unfortunately.",
+    "examples": "“That’s an interesting idea, but I’m not sure it will work.” قد تشير إلى تحفظ مهذب.",
+    "practice": "عندما يقول المتحدث “I suppose that could work”, ما الموقف الأقرب؟",
+    "answer": "B",
+    "answerOptions": [
+      "حماس مؤكد",
+      "قبول متردد أو تحفظ",
+      "رفض قاطع"
+    ],
+    "estimatedMinutes": 20
+  },
+  {
+    "id": "b2-05",
+    "level": "B2",
+    "title": "Reported speech and reporting verbs",
+    "category": "Grammar",
+    "objective": "نقل الأقوال مع مراعاة الزمن والضمائر.",
+    "explanation": "في reported speech قد يتراجع الزمن عند نقل قول في سياق ماضٍ: “I am tired” تصبح “She said she was tired”. وقد تتغير كلمات الزمان والمكان بحسب السياق.",
+    "examples": "He said, “I can help.” → He said he could help.",
+    "practice": "حوّل: “I live here,” Sara said.",
+    "answer": "A",
+    "answerOptions": [
+      "Sara said she lived there.",
+      "Sara said I live here.",
+      "Sara says she lived here yesterday."
+    ],
+    "estimatedMinutes": 20
+  },
+  {
+    "id": "c1-01",
+    "level": "C1",
+    "title": "Hedging and cautious academic claims",
+    "category": "Academic English",
+    "objective": "صياغة ادعاءات أكاديمية دقيقة وغير مبالغ فيها.",
+    "explanation": "تستخدم hedging لتوضيح حدود الدليل: may, might, appears to, is likely to, tends to. لا تجعل كل جملة مترددة؛ استخدمها عندما لا تسمح الأدلة بالجزم.",
+    "examples": "The findings suggest that the policy may improve access.",
+    "practice": "أي صياغة أكثر حذراً أكاديمياً؟",
+    "answer": "B",
+    "answerOptions": [
+      "This proves the policy always works.",
+      "The findings suggest the policy may be effective.",
+      "Everyone knows the policy works."
+    ],
+    "estimatedMinutes": 20
+  },
+  {
+    "id": "c1-02",
+    "level": "C1",
+    "title": "Nuance, register and collocation",
+    "category": "Vocabulary",
+    "objective": "اختيار تعبير طبيعي يناسب السياق الرسمي أو غير الرسمي.",
+    "explanation": "الكفاءة المتقدمة تتطلب مراعاة register والتلازم اللفظي. نقول conduct research وreach a conclusion، بينما قد تكون بعض البدائل مفهومة لكنها أقل طبيعية في السياق الأكاديمي.",
+    "examples": "conduct an analysis / raise an issue / highly unlikely",
+    "practice": "اختر التلازم الأكثر طبيعية:",
+    "answer": "B",
+    "answerOptions": [
+      "do a decision",
+      "make a decision",
+      "create a decision"
+    ],
+    "estimatedMinutes": 20
+  },
+  {
+    "id": "c1-03",
+    "level": "C1",
+    "title": "Synthesising sources and paraphrasing",
+    "category": "Academic Writing",
+    "objective": "دمج أفكار مصادر متعددة بصياغة دقيقة مستقلة.",
+    "explanation": "التلخيص يجمع الفكرة المركزية، أما synthesis فيربط بين مصادر ويبين أوجه الاتفاق والاختلاف. يجب الحفاظ على المعنى ونسبة الأفكار إلى مصادرها وتجنب النسخ القريب من الأصل.",
+    "examples": "Both reports highlight cost, while the second also questions long-term feasibility.",
+    "practice": "ما أفضل ممارسة عند إعادة الصياغة من مصدر؟",
+    "answer": "B",
+    "answerOptions": [
+      "تغيير كلمتين وترك البناء نفسه",
+      "الحفاظ على المعنى بصياغة وبنية مستقلتين مع ذكر المصدر",
+      "حذف اسم المصدر"
+    ],
+    "estimatedMinutes": 20
+  },
+  {
+    "id": "c1-04",
+    "level": "C1",
+    "title": "Idiomatic language and pragmatic meaning",
+    "category": "Speaking",
+    "objective": "فهم المعنى المقصود والتعبير الطبيعي بحسب السياق.",
+    "explanation": "التعبيرات الاصطلاحية لا تُفهم دائماً حرفياً. ويتغير معناها العملي حسب النبرة والموقف والعلاقة بين المتحدثين. تعلّم التعبير ضمن سياقه مع الانتباه إلى درجة الرسمية.",
+    "examples": "“I’ll keep that in mind” تعني أنني سأضع ذلك في الاعتبار.",
+    "practice": "ما المقصود غالباً بـ “Let’s call it a day”?",
+    "answer": "B",
+    "answerOptions": [
+      "لنبدأ يومنا",
+      "لنتوقف عن العمل الآن",
+      "اتصل بي غداً"
+    ],
+    "estimatedMinutes": 20
+  },
+  {
+    "id": "c1-05",
+    "level": "C1",
+    "title": "Evaluating evidence and qualified conclusions",
+    "category": "Critical Reading",
+    "objective": "تقييم قوة الدليل وصياغة استنتاج متناسب معه.",
+    "explanation": "فرّق بين الارتباط والسببية، وبين العينة المحدودة والدليل العام. تحقق من مصدر البيانات وحداثتها وطريقة جمعها قبل تعميم النتيجة.",
+    "examples": "A small survey may indicate a trend, but cannot alone establish causation.",
+    "practice": "دراسة صغيرة وجدت ارتباطاً بين عاملين. ما الاستنتاج الأكثر دقة؟",
+    "answer": "B",
+    "answerOptions": [
+      "أحدهما يسبب الآخر قطعاً",
+      "توجد علاقة في هذه العينة، وتحتاج السببية إلى أدلة إضافية",
+      "النتيجة تنطبق على الجميع"
+    ],
+    "estimatedMinutes": 20
+  }
+]
